@@ -1,4 +1,5 @@
 Projeto AI Generativa
+
 ![Uploading Flux_Dev_A_inteligncia_artificial_est_transformando_a_maneira__3.jpeg…]()
 
 
